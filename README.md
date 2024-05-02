@@ -22,7 +22,7 @@ Automation is at the heart of modern grid operations, streamlining processes and
 
 ## Get Started
 
-Explore our repositories to discover innovative solutions for power system protection, control, monitoring, and automation. Whether you're a researcher, engineer, or industry professional, we invite you to join us in shaping the future of energy technology.
+To discover innovative solutions for power system protection, control, monitoring, and automation. Whether you're a researcher, engineer, or industry professional, we invite you to join us in shaping the future of energy technology.
 
 For inquiries and collaborations, feel free to contact us at [contact@gridedgeservices.com](mailto:contact@gridedgeservices.com).
 
